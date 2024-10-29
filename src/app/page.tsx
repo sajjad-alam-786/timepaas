@@ -6,6 +6,8 @@ export default function Home() {
       <h1>Lucky Is The Smartest guy in the world</h1>
 
       <p>change one</p>
+
+      <p>change two</p>
     </div>
   );
 }
